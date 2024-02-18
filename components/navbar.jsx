@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import Link from "next/link";
 
-export default function navbar() {
+export default function Navbar() {
   const [navOpen, setNavOpen] = useState(false);
   const toggleNavbar = () => {
     setNavOpen(!navOpen);
