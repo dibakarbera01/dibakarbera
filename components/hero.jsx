@@ -9,7 +9,7 @@ export default function hero() {
                     <div class="justify-center w-full mx-auto">
               
                       <p class="mt-8 text-5xl font-medium tracking-tighter text-black">
-                      Hi, I'm Dibakar Bera
+                      Hi, I&apos;m Dibakar Bera
                       </p>
                       <p class="max-w-xl mx-auto mt-4 text-lg tracking-tight text-gray-600">
                       Passionate about creating beautiful and functional web experiences

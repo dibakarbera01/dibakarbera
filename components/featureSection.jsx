@@ -11,7 +11,7 @@ export default function featureSection() {
                         <div class="lg:pr-24 md:pr-12">
                           <div>
                             <p class="text-2xl font-medium tracking-tight text-black sm:text-4xl">
-                             What I'm Doing
+                             What I&apos;m Doing
                             </p>
                             {/* <p class="max-w-xl mt-4 text-lg tracking-tight text-gray-600">
                               You are not your mistakes, you are not your struggles, and you
