@@ -25,7 +25,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <div className="flex">
               <a href="/" className="text-black">
-                Dibakar
+                Dibakar Bera
               </a>
             </div>
           </div>
