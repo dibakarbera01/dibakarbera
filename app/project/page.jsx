@@ -16,7 +16,7 @@ export default function page() {
                                 </div>
 
                                 <div class="grow mt-4 sm:mt-0 sm:ms-6 px-4 sm:px-0">
-                                    <h3 class="text-xl font-semibold text-gray-800 group-hover:text-gray-600 dark:text-gray-900 dark:group-hover:text-white">
+                                    <h3 class="text-xl font-semibold text-gray-800 group-hover:text-gray-600 dark:text-gray-900">
                                         {data.name}
                                     </h3>
                                     <p class="mt-3 text-gray-600 dark:text-gray-800">
