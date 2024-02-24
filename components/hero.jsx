@@ -2,8 +2,9 @@ import React from 'react'
 
 export default function hero() {
     return (
-        <>          
-           <section>
+   
+           <>          
+            <section>
                 <div class="items-center px-8 py-12 mx-auto max-w-7xl lg:px-16 md:px-12 lg:py-24">
                   <div class="justify-center w-full text-center lg:p-10 max-auto">
                     <div class="justify-center w-full mx-auto">
@@ -25,7 +26,7 @@ export default function hero() {
                     </div>
                   </div>
                 </div>
-              </section>
+              </section> 
             
 
         </>
