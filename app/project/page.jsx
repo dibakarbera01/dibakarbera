@@ -9,7 +9,7 @@ export default function page() {
 
                     {project.map((data, index) => (
 
-                        <a class="group rounded-xl overflow-hidden dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href={data.redirect_url}>
+                        <a key={index} class="group rounded-xl overflow-hidden dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href={data.redirect_url}>
                             <div class="sm:flex">
                                 <div class="flex-shrink-0 relative rounded-xl overflow-hidden w-full sm:w-56 h-44">
                                     <img class="group-hover:scale-105 transition-transform duration-500 ease-in-out size-full absolute top-0 start-0 object-cover rounded-xl" src={data.image_url} alt="Image Description" />
